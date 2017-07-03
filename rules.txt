@@ -1,0 +1,11 @@
+1. Try to guess a vocabulary word that is randomly chosen by computer
+
+2. Each guess should be either an alphabet or a word
+
+3. Repeated guesses are not allowed
+
+4. The hang man will be marked and displayed when your guess is wrong
+
+5. Try to guess the word correctly before the whole hang man is marked
+
+Good Luck!
